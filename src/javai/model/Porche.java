@@ -1,9 +1,10 @@
-package javai;
+package javai.model;
 
 public class Porche implements Car {
 	
 	private int speed;
 	
+
 	public int getSpeed() {
 		return speed;
 	}
